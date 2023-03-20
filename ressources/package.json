@@ -1,24 +1,30 @@
 {
-  "name": "thingy-rpc-authmaster-client",
-  "version": "0.0.1",
-  "description": "For the Authentication Master, the RPC calls to add remove and list authenticatable clients.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["thingy", "post", "rpc", "authenticattion", "master"],
-  "author": "Lenard Frommelt lenard@frommelt.dev",
-  "license": "Unlicense",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JhonnyJason/thingy-rpc-authmaster-client.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JhonnyJason/thingy-rpc-authmaster-client/issues"
-  },
-  "homepage": "https://github.com/JhonnyJason/thingy-rpc-authmaster-client-output.git",
-  "dependencies": {
-    "thingy-post-rpc-client": "^0.0.1"
-  },
-  "type": "module"
+    "name": "thingy-rpc-authmaster-client",
+    "version": "0.0.2",
+    "description": "For the Authentication Master, the RPC calls to add remove and list authenticatable clients.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "thingy",
+        "post",
+        "rpc",
+        "authenticattion",
+        "master"
+    ],
+    "author": "Lenard Frommelt lenard@frommelt.dev",
+    "license": "Unlicense",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JhonnyJason/thingy-rpc-authmaster-client.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JhonnyJason/thingy-rpc-authmaster-client/issues"
+    },
+    "homepage": "https://github.com/JhonnyJason/thingy-rpc-authmaster-client-output.git",
+    "dependencies": {
+        "thingy-post-rpc-client": "^0.0.1"
+    },
+    "type": "module"
 }
