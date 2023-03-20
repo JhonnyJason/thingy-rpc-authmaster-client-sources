@@ -1,4 +1,4 @@
-# thingy-rcp-authmaster-client
+# thingy-rpc-authmaster-client
 
 
 ## Background
