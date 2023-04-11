@@ -1,6 +1,6 @@
 {
     "name": "thingy-rpc-authmaster-client",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "For the Authentication Master, the RPC calls to add remove and list authenticatable clients.",
     "main": "index.js",
     "scripts": {
@@ -24,7 +24,7 @@
     },
     "homepage": "https://github.com/JhonnyJason/thingy-rpc-authmaster-client-output.git",
     "dependencies": {
-        "thingy-post-rpc-client": "^0.0.1"
+        "thingy-post-rpc-client": "^0.0.2"
     },
     "type": "module"
 }
