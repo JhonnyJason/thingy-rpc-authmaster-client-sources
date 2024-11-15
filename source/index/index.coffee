@@ -28,3 +28,7 @@ export class RPCAuthMasterClient extends RPCPostClient
         func = "getClientsToServe"
         return @doRPC(func, args, authType)
 
+    ########################################################
+    getServerId: ->
+        if !super.serverId? then await @requestNodeId("masterSignature")
+        return await super.getServerId()
