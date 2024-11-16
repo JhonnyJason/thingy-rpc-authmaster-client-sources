@@ -1,6 +1,6 @@
 {
     "name": "thingy-rpc-authmaster-client",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "For the Authentication Master, the RPC calls to add remove and list authenticatable clients.",
     "main": "index.js",
     "scripts": {
